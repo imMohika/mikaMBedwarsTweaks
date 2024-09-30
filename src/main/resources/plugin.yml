@@ -1,0 +1,6 @@
+name: mikaMBedwarsTweaks
+version: '${version}'
+main: ir.mohika.mikambedwarstweaks.MikaMBedwarsTweaks
+authors: [ imMohika ]
+website: im.mohika.ir
+depend: [ MBedwars ]
